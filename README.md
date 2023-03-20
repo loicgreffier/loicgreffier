@@ -5,6 +5,9 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=loicgreffier&style=flat-square&color=blue&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/loicgreffier">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 ### 🚀 Main Contributions
