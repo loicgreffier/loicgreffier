@@ -25,14 +25,14 @@
 
 ### 🛠️ Languages and Tools
 
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="50" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
