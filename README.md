@@ -21,7 +21,7 @@
 - [spring-boot-kafka-quickstarts](https://github.com/loicgreffier/spring-boot-kafka-quickstarts): Code samples around Spring Boot and Kafka.
 - [docsource](https://github.com/loicgreffier/docsource): CLI for Markdown broken link detection.
 
----
+<h1></h1>
 
 ### 🛠️ Languages and Tools
 
