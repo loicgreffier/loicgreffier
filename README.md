@@ -13,7 +13,7 @@
 ### 🚀 Main Activity
 
 - [michelin/suricate](https://github.com/michelin/suricate) & [michelin/suricate-widgets](https://github.com/michelin/suricate-widgets): Suricate is an open source application which allows IT teams to monitor their environments through dashboards made of widgets that can be displayed on TVs.
-- [michelin/ns4kafka](https://github.com/michelin/ns4kafka) & [michelin/kafkactl](https://github.com/michelin/kafkactl): Ns4Kafka brings namespaces on top of Kafka brokers, Kafka Connect and Schema Registry.
+- [michelin/ns4kafka](https://github.com/michelin/ns4kafka) & [michelin/kafkactl](https://github.com/michelin/kafkactl): Ns4Kafka brings namespaces on top of Kafka brokers, Kafka Connect and Schema Registry. Kafkactl is the CLI linked with Ns4Kafka.
 
 ### 📖 Side Projects
 
