@@ -39,4 +39,4 @@
 
 ### ✨ Stats
 
-[![GitHub stats stats-Dark](https://github-readme-stats.vercel.app/api?username=loicgreffier&show_icons=true&rank_icon=github&custom_title=GitHub%20Stats&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=fff#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=loicgreffier&show_icons=true&rank_icon=github&custom_title=GitHub%20Stats&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=fff#gh-dark-mode-only)
