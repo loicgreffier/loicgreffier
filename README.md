@@ -10,13 +10,12 @@
   </a>
 </div>
 
-### 🚀 Main Contributions
+### 🚀 Main Activity
 
-- [michelin/suricate](https://github.com/michelin/suricate): Suricate is an open source application which allows IT teams to monitor their environments through dashboards made of widgets that can be displayed on TVs.
-- [michelin/ns4kafka](https://github.com/michelin/ns4kafka): Ns4Kafka brings namespaces on top of Kafka brokers, Kafka Connect and Schema Registry.
-- [michelin/kafkactl](https://github.com/michelin/kafkactl): Kafkactl is the CLI linked with Ns4Kafka. It lets you deploy your Kafka resources using YAML descriptors.
+- [michelin/suricate](https://github.com/michelin/suricate) & [michelin/suricate-widgets](https://github.com/michelin/suricate-widgets): Suricate is an open source application which allows IT teams to monitor their environments through dashboards made of widgets that can be displayed on TVs.
+- [michelin/ns4kafka](https://github.com/michelin/ns4kafka) & [michelin/kafkactl](https://github.com/michelin/kafkactl): Ns4Kafka brings namespaces on top of Kafka brokers, Kafka Connect and Schema Registry.
 
-### 👀 Side Projects
+### 📖 Side Projects
 
 - [spring-boot-kafka-quickstarts](https://github.com/loicgreffier/spring-boot-kafka-quickstarts): Code samples around Spring Boot and Kafka.
 - [docsource](https://github.com/loicgreffier/docsource): CLI for Markdown broken link detection.
@@ -24,7 +23,6 @@
 <h1></h1>
 
 ### 🛠️ Languages and Tools
-
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
@@ -36,3 +34,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+
+<h1></h1>
+
+### ✨ Stats
+
+[![GitHub stats stats-Dark](https://github-readme-stats.vercel.app/api?username=loicgreffier&show_icons=true&rank_icon=github&custom_title=GitHub%20Stats&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=fff#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
