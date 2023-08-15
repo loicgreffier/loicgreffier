@@ -1,18 +1,19 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/34104771/226453073-1c397c5e-56b0-4ff0-91b4-58b7ff20f0dd.gif"/>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=loicgreffier&style=flat-square&color=blue&style=for-the-badge" />
+    <a href="https://www.linkedin.com/in/loicgreffier">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
   <h1 align="center"> Hi! 👋 I'm Loïc Greffier </h1>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=loicgreffier&style=flat-square&color=blue&style=for-the-badge" />
-  <a href="https://www.linkedin.com/in/loicgreffier">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 
 ### 🚀 Main Activity
 
-- [michelin/suricate](https://github.com/michelin/suricate) & [michelin/suricate-widgets](https://github.com/michelin/suricate-widgets): Suricate is an open source application which allows IT teams to monitor their environments through dashboards made of widgets that can be displayed on TVs.
+- [michelin/suricate](https://github.com/michelin/suricate), [michelin/suricate-widgets](https://github.com/michelin/suricate-widgets) & [michelin/suricate-widget-tester](https://github.com/michelin/suricate-widget-tester): Suricate is an open source application which allows IT teams to monitor their environments through dashboards made of widgets that can be displayed on TVs.
 - [michelin/ns4kafka](https://github.com/michelin/ns4kafka) & [michelin/kafkactl](https://github.com/michelin/kafkactl): Ns4Kafka brings namespaces on top of Kafka brokers, Kafka Connect and Schema Registry. Kafkactl is the CLI linked with Ns4Kafka.
 
 ### 📖 Side Projects
