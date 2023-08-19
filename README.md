@@ -13,32 +13,32 @@
 
 #### Suricate 
 <a href="https://github.com/michelin/suricate">
-  <img width=333 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michelin&repo=suricate&show_owner=true&bg_color=30,1a2a6c,b21f1f,fdbb2d&title_color=fff&text_color=fff&icon_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michelin&repo=suricate&show_owner=true&bg_color=30,1a2a6c,b21f1f,fdbb2d&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 <a href="https://github.com/michelin/suricate-widgets">
-  <img width=333 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michelin&repo=suricate-widgets&show_owner=true&bg_color=30,1a2a6c,b21f1f,fdbb2d&title_color=fff&text_color=fff&icon_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michelin&repo=suricate-widgets&show_owner=true&bg_color=30,1a2a6c,b21f1f,fdbb2d&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 
 #### Ns4Kafka 
 <a href="https://github.com/michelin/ns4kafka">
-  <img width=333 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michelin&repo=ns4kafka&show_owner=true&bg_color=30,16222a,3a6073&title_color=fff&text_color=fff&icon_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michelin&repo=ns4kafka&show_owner=true&bg_color=30,16222a,3a6073&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 <a href="https://github.com/michelin/kafkactl">
-  <img width=333 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michelin&repo=kafkactl&show_owner=true&bg_color=30,16222a,3a6073&title_color=fff&text_color=fff&icon_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michelin&repo=kafkactl&show_owner=true&bg_color=30,16222a,3a6073&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 
 ### 📖 Side Projects
 
-
-
 #### Spring Boot Kafka Quickstarts
 <a href="https://github.com/loicgreffier/spring-boot-kafka-quickstarts">
-  <img width=333 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loicgreffier&repo=spring-boot-kafka-quickstarts&bg_color=30,000000,0f9b0f&title_color=fff&text_color=fff&icon_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loicgreffier&repo=spring-boot-kafka-quickstarts&bg_color=30,134e5e,71b280&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
+
+
 
 #### Docsource
 <a href="https://github.com/loicgreffier/docsource">
-  <img width=333 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loicgreffier&repo=docsource&bg_color=30,5433ff,20bdff,a5fecb&title_color=fff&text_color=fff&icon_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loicgreffier&repo=docsource&bg_color=30,00b4db,0083b0&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 
 <h1></h1>
