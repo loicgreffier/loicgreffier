@@ -18,9 +18,6 @@
 <a href="https://github.com/michelin/suricate-widgets">
   <img width=333 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michelin&repo=suricate-widgets&show_owner=true&bg_color=30,fe8c00,f83600&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
-<a href="https://github.com/michelin/suricate-widget-tester">
-  <img width=333 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michelin&repo=suricate-widget-tester&show_owner=true&bg_color=30,fe8c00,f83600&title_color=fff&text_color=fff&icon_color=fff" />
-</a>
 
 #### Ns4Kafka 
 <a href="https://github.com/michelin/ns4kafka">
