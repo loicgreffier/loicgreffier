@@ -9,17 +9,40 @@
   <h1 align="center"> Hi! 👋 I'm Loïc Greffier </h1>
 </div>
 
+### 🚀 Contributions
 
+#### Suricate 
+<a href="https://github.com/michelin/suricate">
+  <img width=333 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michelin&repo=suricate&show_owner=true&bg_color=30,fe8c00,f83600&title_color=fff&text_color=fff&icon_color=fff" />
+</a>
+<a href="https://github.com/michelin/suricate-widgets">
+  <img width=333 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michelin&repo=suricate-widgets&show_owner=true&bg_color=30,fe8c00,f83600&title_color=fff&text_color=fff&icon_color=fff" />
+</a>
+<a href="https://github.com/michelin/suricate-widget-tester">
+  <img width=333 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michelin&repo=suricate-widget-tester&show_owner=true&bg_color=30,fe8c00,f83600&title_color=fff&text_color=fff&icon_color=fff" />
+</a>
 
-### 🚀 Main Activity
-
-- [michelin/suricate](https://github.com/michelin/suricate), [michelin/suricate-widgets](https://github.com/michelin/suricate-widgets) & [michelin/suricate-widget-tester](https://github.com/michelin/suricate-widget-tester): Suricate is an open source application which allows IT teams to monitor their environments through dashboards made of widgets that can be displayed on TVs.
-- [michelin/ns4kafka](https://github.com/michelin/ns4kafka) & [michelin/kafkactl](https://github.com/michelin/kafkactl): Ns4Kafka brings namespaces on top of Kafka brokers, Kafka Connect and Schema Registry. Kafkactl is the CLI linked with Ns4Kafka.
+#### Ns4Kafka 
+<a href="https://github.com/michelin/ns4kafka">
+  <img width=333 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michelin&repo=ns4kafka&show_owner=true&bg_color=30,16222a,3a6073&title_color=fff&text_color=fff&icon_color=fff" />
+</a>
+<a href="https://github.com/michelin/kafkactl">
+  <img width=333 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michelin&repo=kafkactl&show_owner=true&bg_color=30,16222a,3a6073&title_color=fff&text_color=fff&icon_color=fff" />
+</a>
 
 ### 📖 Side Projects
 
-- [spring-boot-kafka-quickstarts](https://github.com/loicgreffier/spring-boot-kafka-quickstarts): Code samples around Spring Boot and Kafka.
-- [docsource](https://github.com/loicgreffier/docsource): CLI for Markdown broken link detection.
+
+
+#### Spring Boot Kafka Quickstarts
+<a href="https://github.com/loicgreffier/spring-boot-kafka-quickstarts">
+  <img width=333 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loicgreffier&repo=spring-boot-kafka-quickstarts&bg_color=30,000000,0f9b0f&title_color=fff&text_color=fff&icon_color=fff" />
+</a>
+
+#### Docsource
+<a href="https://github.com/loicgreffier/docsource">
+  <img width=333 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loicgreffier&repo=docsource&bg_color=30,5433ff,20bdff,a5fecb&title_color=fff&text_color=fff&icon_color=fff" />
+</a>
 
 <h1></h1>
 
@@ -40,4 +63,4 @@
 
 ### ✨ Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=loicgreffier&show_icons=true&rank_icon=github&custom_title=GitHub%20Stats&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=fff#gh-dark-mode-only)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=loicgreffier&show_icons=true&rank_icon=github&custom_title=GitHub%20Stats&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=fff)
