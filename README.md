@@ -45,6 +45,6 @@
 
 <h3 align="left">📊 Stats</h3>
 <div align="left">
-  <img width="405" height="169" src="https://github-readme-stats.vercel.app/api?username=loicgreffier&show_icons=true&locale=en&custom_title=GitHub%20Stats&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=fff" alt="loicgreffier" />
-  <img width="495" height="169" src="https://github-readme-streak-stats.herokuapp.com/?user=loicgreffier" alt="loicgreffier" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=loicgreffier&show_icons=true&locale=en&custom_title=GitHub%20Stats&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=fff" alt="loicgreffier" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loicgreffier" alt="loicgreffier" />
 </div>
