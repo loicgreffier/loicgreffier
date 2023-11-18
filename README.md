@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/34104771/226453073-1c397c5e-56b0-4ff0-91b4-58b7ff20f0dd.gif"/>
   <h1>Hi 👋, I'm Loïc Greffier</h1>
-  <h3>Software developer from France</h3>
+  <h3>Software developer @ Michelin. From Clermont-Ferrand, FRANCE.</h3>
   
   <p> <img src="https://komarev.com/ghpvc/?username=loicgreffier&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="loicgreffier" /> </p>
 </div>
