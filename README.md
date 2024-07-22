@@ -6,7 +6,7 @@
   <p> <img src="https://komarev.com/ghpvc/?username=loicgreffier&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="loicgreffier" /> </p>
 </div>
 
-- 🔭 I’m currently working on [michelin/ns4kafka](https://github.com/michelin/ns4kafka), [michelin/kafkactl](https://github.com/michelin/kafkactl), [michelin/kstreamplify](https://github.com/michelin/kstreamplify) and [michelin/suricate](https://github.com/michelin/suricate) 
+- 🔭 I’m currently working on [apache/kafka](https://github.com/apache/kafka), [michelin/ns4kafka](https://github.com/michelin/ns4kafka) and [michelin/kstreamplify](https://github.com/michelin/kstreamplify)
 
 - 👨‍💻 All of my projects are available at [https://github.com/loicgreffier](https://github.com/loicgreffier?tab=repositories)
 
