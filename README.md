@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="images/banner.gif" height="475"/>
   <h1>Hi 👋, I'm Loïc Greffier</h1>
   <h3>Software Engineer @ Michelin. From Clermont-Ferrand, FRANCE.</h3>
   
