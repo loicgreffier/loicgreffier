@@ -15,7 +15,7 @@
 
 <p align="center"> 
   <a href="https://angular.io" title="Angular" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="50" height="50"/> </a> 
-  <a href="https://www.docker.com/" title="Docker" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/> </a> 
+  <a href="https://www.docker.com/" title="Docker" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker" width="50" height="50"/> </a> 
   <a href="https://git-scm.com/" title="Git" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="50" height="50"/> </a> 
   <a href="https://github.com/" title="GitHub" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="50" height="50"/> </a> 
   <a href="https://gitlab.com/" title="GitLab" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab" width="50" height="50"/> </a> 
@@ -24,8 +24,9 @@
   <a href="https://kubernetes.io" title="Kubernetes" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="50" height="50"/> </a> 
   <a href="https://micronaut.io/" title="Micronaut" target="_blank" rel="noreferrer"> <img src="https://micronaut.io/wp-content/uploads/2021/06/sally-black.png" alt="micronaut" width="50" height="50"/> </a> 
   <a href="https://www.postgresql.org" title="PostgreSQL" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/> </a> 
+   <a href="https://tailwindcss.com" title="TailwindCSS" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="50" height="50"/> </a> 
   <a href="https://spring.io/" title="Spring Boot" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="50" height="50"/> </a> 
-  <a href="https://www.vaultproject.io/" title="Vault" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" alt="spring" width="50" height="50"/> </a> 
+  <a href="https://www.vaultproject.io/" title="Vault" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" alt="vault" width="50" height="50"/> </a> 
 </p>
 
 <h1></h1>
