@@ -34,3 +34,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=loicgreffier&show_icons=true&locale=en&custom_title=GitHub%20Stats&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=fff" alt="loicgreffier" />
 </div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=loicgreffier&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="loicgreffier" />
+</div>
