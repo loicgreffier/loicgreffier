@@ -2,39 +2,37 @@
   <h1>Hi 👋, I'm Loïc Greffier</h1>
   <h3>Software Engineer @ Michelin. From Clermont-Ferrand, FRANCE.</h3>
   
-  <p> <img src="https://komarev.com/ghpvc/?username=loicgreffier&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="loicgreffier" /> </p>
+  <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white" alt="loicgreffier" />
+  <img src="https://img.shields.io/badge/Docker-2496EF?style=for-the-badge&logo=docker&logoColor=white" alt="loicgreffier" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="loicgreffier" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="loicgreffier" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="loicgreffier" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="loicgreffier" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="loicgreffier" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="loicgreffier" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="loicgreffier" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="loicgreffier" />
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" alt="loicgreffier" />
 </div>
 
-- 🔭 I’m currently working on [apache/kafka](https://github.com/apache/kafka), [michelin/ns4kafka](https://github.com/michelin/ns4kafka) and [michelin/kstreamplify](https://github.com/michelin/kstreamplify)
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/loicgreffier](https://github.com/loicgreffier?tab=repositories)
+- 🔭 I’m currently working on
+  - [Apache Kafka](https://github.com/apache/kafka)
+  - [Ns4Kafka](https://github.com/michelin/ns4kafka)
+  - [Kstreamplify](https://github.com/michelin/kstreamplify)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/loicgreffier](https://www.linkedin.com/in/loicgreffier)
+- 👨‍💻 All of my projects are available at [https://github.com/loicgreffier](https://github.com/loicgreffier?tab=repositories).
 
-<h1></h1>
+- 📄 Know about my experiences [https://www.linkedin.com/in/loicgreffier](https://www.linkedin.com/in/loicgreffier).
 
-<p align="center"> 
-  <a href="https://angular.io" title="Angular" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="50" height="50"/> </a> 
-  <a href="https://www.docker.com/" title="Docker" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker" width="50" height="50"/> </a> 
-  <a href="https://git-scm.com/" title="Git" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="50" height="50"/> </a> 
-  <a href="https://github.com/" title="GitHub" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="50" height="50"/> </a> 
-  <a href="https://gitlab.com/" title="GitLab" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab" width="50" height="50"/> </a> 
-  <a href="https://www.java.com" title="Java" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
-  <a href="https://kafka.apache.org/" title="Apache Kafka" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="50" height="50"/> </a> 
-  <a href="https://kubernetes.io" title="Kubernetes" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="50" height="50"/> </a> 
-  <a href="https://micronaut.io/" title="Micronaut" target="_blank" rel="noreferrer"> <img src="https://micronaut.io/wp-content/uploads/2021/06/sally-black.png" alt="micronaut" width="50" height="50"/> </a> 
-  <a href="https://www.postgresql.org" title="PostgreSQL" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/> </a> 
-   <a href="https://tailwindcss.com" title="TailwindCSS" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="50" height="50"/> </a> 
-  <a href="https://spring.io/" title="Spring Boot" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="50" height="50"/> </a> 
-  <a href="https://www.vaultproject.io/" title="Vault" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" alt="vault" width="50" height="50"/> </a> 
-</p>
+## 🎤 Talks & Conferences 
 
-<h1></h1>
+- 🎥 **DevFest Lille 2024** [Plongée dans l'univers de Apache Kafka @ Michelin: L'équilibre entre Dev et Ops](https://www.youtube.com/watch?v=gbzm4vqnVl8) (French)
+  
+- 🎥 **Current London 2025** [Processing Exception Handling and Dead Letter Queue in Kafka Streams](https://current.confluent.io/post-conference-videos-2025/processing-exception-handling-and-dead-letter-queue-in-kafka-streams-lnd25)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loicgreffier&show_icons=true&locale=en&custom_title=GitHub%20Stats&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=fff" alt="loicgreffier" />
-</div>
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=loicgreffier&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="loicgreffier" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=loicgreffier&show_icons=true&locale=en&custom_title=GitHub%20Stats&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=fff" alt="loicgreffier" />
+<img src="https://github-contributor-stats.vercel.app/api?username=loicgreffier&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="loicgreffier" />
