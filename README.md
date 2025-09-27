@@ -28,9 +28,9 @@
 
 ## 🎤 Talks & Conferences 
 
-- 🎥 **DevFest Lille 2024** [Plongée dans l'univers de Apache Kafka @ Michelin: L'équilibre entre Dev et Ops](https://www.youtube.com/watch?v=gbzm4vqnVl8) (French)
+- 🎥 **DevFest Lille 2024** · [Plongée dans l'univers de Apache Kafka @ Michelin: L'équilibre entre Dev et Ops](https://www.youtube.com/watch?v=gbzm4vqnVl8) (French)
   
-- 🎥 **Current London 2025** [Processing Exception Handling and Dead Letter Queue in Kafka Streams](https://current.confluent.io/post-conference-videos-2025/processing-exception-handling-and-dead-letter-queue-in-kafka-streams-lnd25)
+- 🎥 **Current London 2025** · [Processing Exception Handling and Dead Letter Queue in Kafka Streams](https://current.confluent.io/post-conference-videos-2025/processing-exception-handling-and-dead-letter-queue-in-kafka-streams-lnd25)
 
 ## 📊 GitHub Stats
 
