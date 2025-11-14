@@ -3,9 +3,9 @@
   <h3>Software Engineer @ Michelin. From Clermont-Ferrand, FRANCE.</h3>
   
   <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white" alt="loicgreffier" />
+  <img src="https://img.shields.io/badge/Daisy%20UI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white" alt="loicgreffier" />
   <img src="https://img.shields.io/badge/Docker-2496EF?style=for-the-badge&logo=docker&logoColor=white" alt="loicgreffier" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="loicgreffier" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="loicgreffier" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="loicgreffier" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="loicgreffier" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="loicgreffier" />
