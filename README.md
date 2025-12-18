@@ -20,7 +20,6 @@
 - 🔭 I’m currently working on
   - [Spring Boot Kafka Quickstarts](https://github.com/loicgreffier/spring-boot-kafka-quickstarts)
   - [Spring Boot AI Quickstarts](https://github.com/loicgreffier/spring-boot-ai-quickstarts)
-  - [Docsource](https://github.com/loicgreffier/docsource)
 
 - 👨‍💻 All of my projects are available at [https://github.com/loicgreffier](https://github.com/loicgreffier?tab=repositories).
 
