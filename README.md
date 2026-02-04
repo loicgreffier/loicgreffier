@@ -15,23 +15,17 @@
   <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" alt="loicgreffier" />
 </div>
 
-## 🚀 About Me
+## Current Projects
 
-- 🔭 I’m currently working on
-  - [Spring Boot Kafka Quickstarts](https://github.com/loicgreffier/spring-boot-kafka-quickstarts)
-  - [Spring Boot AI Quickstarts](https://github.com/loicgreffier/spring-boot-ai-quickstarts)
+- 🦦 [Spring Boot Kafka Quickstarts](https://github.com/loicgreffier/spring-boot-kafka-quickstarts) - Code samples around Spring Boot and Kafka.
+- 🧠 [Spring Boot AI Quickstarts](https://github.com/loicgreffier/spring-boot-ai-quickstarts) - Code samples around Spring AI.
 
-- 👨‍💻 All of my projects are available at [https://github.com/loicgreffier](https://github.com/loicgreffier?tab=repositories).
+## Archived Projects
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/loicgreffier](https://www.linkedin.com/in/loicgreffier).
+- 🪶 [Docsource](https://github.com/loicgreffier/docsource) - Command-line interface for detecting broken links in Markdown documentation files.
 
-## 🎤 Talks & Conferences 
+## Talks & Conferences 
 
-- 🎥 **Current London 2025** · [Processing Exception Handling and Dead Letter Queue in Kafka Streams](https://current.confluent.io/post-conference-videos-2025/processing-exception-handling-and-dead-letter-queue-in-kafka-streams-lnd25) (🇬🇧)
+- 📨 [Processing Exception Handling and Dead Letter Queue in Kafka Streams](https://current.confluent.io/post-conference-videos-2025/processing-exception-handling-and-dead-letter-queue-in-kafka-streams-lnd25) - Current London 2025 (🇬🇧).
 
-- 🎥 **DevFest Lille 2024** · [Plongée dans l'univers de Apache Kafka @ Michelin: L'équilibre entre Dev et Ops](https://www.youtube.com/watch?v=gbzm4vqnVl8) (🇫🇷)
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=loicgreffier&show_icons=true&locale=en&custom_title=GitHub%20Stats&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=fff" alt="loicgreffier" />
-<img src="https://github-contributor-stats.vercel.app/api?username=loicgreffier&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="loicgreffier" />
+- 🧩 [Plongée dans l'univers de Apache Kafka @ Michelin: L'équilibre entre Dev et Ops](https://www.youtube.com/watch?v=gbzm4vqnVl8) - DevFest Lille 2024 (🇫🇷).
